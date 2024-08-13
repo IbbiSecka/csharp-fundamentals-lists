@@ -31,6 +31,8 @@ namespace csharp_fundamentals_lists.Main
             //  TODO:  1.  Find the add method and add two more flavours of ice cream: "Phish Food", "Peanut Butter Cup"
 
             //write code here
+            _iceCreams.Add("Phish Food");
+            _iceCreams.Add("Peanut Butter Cup");
 
             return _iceCreams;        
         }
